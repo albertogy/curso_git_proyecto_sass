@@ -1,4 +1,4 @@
-const URL_API = "http://localhost:3000/api/";
+const URL_API = "http://localhost:8080/api/";
 function getApI(endpoint) {
     return URL_API + endpoint;
 }
